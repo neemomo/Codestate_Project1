@@ -1,5 +1,5 @@
 # Codestate_Project1
 
-프로젝트 설명: Project_description.md
+문서화된 분석내용: Project_description.md
 
-분석용 python script: codestates_project1.ipynb
+분석용 파이썬 스크립트: codestates_project1.ipynb
